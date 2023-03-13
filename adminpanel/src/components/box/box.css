@@ -1,0 +1,17 @@
+.box{
+    width: 100%;
+    height: 100%;
+    display: inline-block;
+    background-color: red;
+}
+.box-up{
+    display: flex;
+    width: 100%;
+    height: 60%;
+    background-color: red;
+}
+.box-up-left{
+    width: 50%;
+    height: 100%;
+    
+}
